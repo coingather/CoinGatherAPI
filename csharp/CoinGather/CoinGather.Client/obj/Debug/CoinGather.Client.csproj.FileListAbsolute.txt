@@ -1,0 +1,6 @@
+C:\MM\api.github\CoinGatherAPI\csharp\CoinGather\CoinGather.Client\bin\Debug\CoinGather.Client.dll
+C:\MM\api.github\CoinGatherAPI\csharp\CoinGather\CoinGather.Client\bin\Debug\CoinGather.Client.pdb
+C:\MM\api.github\CoinGatherAPI\csharp\CoinGather\CoinGather.Client\bin\Debug\Newtonsoft.Json.dll
+C:\MM\api.github\CoinGatherAPI\csharp\CoinGather\CoinGather.Client\obj\Debug\CoinGather.Client.csprojResolveAssemblyReference.cache
+C:\MM\api.github\CoinGatherAPI\csharp\CoinGather\CoinGather.Client\obj\Debug\CoinGather.Client.dll
+C:\MM\api.github\CoinGatherAPI\csharp\CoinGather\CoinGather.Client\obj\Debug\CoinGather.Client.pdb

@@ -214,7 +214,6 @@ class APIClient {
         if (is_null($ch)) {
                 $ch = curl_init();
                 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-                //curl_setopt($ch, CURLOPT_USERAGENT, 'Mozilla/4.0 (compatible; Cryptsy API PHP client; '.php_uname('s').'; PHP/'.phpversion().')');
         }
 		curl_setopt($ch, CURLOPT_ENCODING ,"");
         curl_setopt($ch, CURLOPT_URL, $this->m_apiurl . $method);
